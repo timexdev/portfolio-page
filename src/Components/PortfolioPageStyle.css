@@ -1,0 +1,20 @@
+.container{
+    padding-top: 150px;
+}
+
+.card{
+    margin-bottom: 50px;
+    background-color: rgb(15, 23, 42);
+    padding: 20px 30px;
+}
+
+.card-title{
+    color: rgb(107, 114, 128);
+}
+
+.card-link{
+    color: white;
+    background-color: rgb(82, 41, 230);
+    padding: 5px 15px;
+    font-weight: 500;
+}
